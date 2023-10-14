@@ -9,7 +9,7 @@ const router = createBrowserRouter(
   ],
   {
     // Set the basename to the base path value from vite.config.js
-    basename: import.meta.env.DEV ? '/' : '/react-vite-gh-pages/',
+    basename: import.meta.env.DEV ? '/' : '/gh-pages-react/',
   }
 )
 
