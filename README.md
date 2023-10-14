@@ -1,4 +1,4 @@
-# React + Vite + GitHub Pages
+# React + GitHub Pages
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules, and it also includes automatic deployment to GitHub Pages using GitHub Actions.
 
